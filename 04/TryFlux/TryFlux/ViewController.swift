@@ -33,9 +33,3 @@ class ViewController: UIViewController {
         actionCreator.changeColor(currentColor: currentColor)
     }
 }
-
-/// ボタンタップで背景が変わるアプリを作る
-/// 背景色はstringでもっていて、assetで登録したものを呼び出す
-/// キャッシュの機構
-/// uiのinputの機構
-/// 

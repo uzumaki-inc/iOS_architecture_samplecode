@@ -86,13 +86,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		307BDBF62217BF1A00B469D8 /* Util */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Util;
-			sourceTree = "<group>";
-		};
 		30D1E507221643030023C8F0 = {
 			isa = PBXGroup;
 			children = (
@@ -116,7 +109,6 @@
 		30D1E512221643040023C8F0 /* TryFlux */ = {
 			isa = PBXGroup;
 			children = (
-				307BDBF62217BF1A00B469D8 /* Util */,
 				30D1E5442216FD8D0023C8F0 /* Data */,
 				30D1E5412216FB840023C8F0 /* Flux */,
 				30D1E513221643040023C8F0 /* AppDelegate.swift */,
