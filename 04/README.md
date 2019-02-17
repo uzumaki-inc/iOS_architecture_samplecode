@@ -1,6 +1,6 @@
 # Fluxサンプル
 
-![screen shot]()
+![screen shot](https://github.com/uzumaki-inc/iOS_architecture_samplecode/blob/master/04/image/ScreenShot.png)
 
 Flux構成でボタンをタップすると背景色が変化するサンプルアプリを作成しました。
 
@@ -11,7 +11,7 @@ Flux構成でボタンをタップすると背景色が変化するサンプル�
 
 # Flux構成
 
-![Flux]()
+![Flux](https://github.com/uzumaki-inc/iOS_architecture_samplecode/blob/master/04/image/Flux.jpeg)
 
 
 
